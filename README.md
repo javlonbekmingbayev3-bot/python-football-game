@@ -1,6 +1,8 @@
 # python-football-game
 A football mini-game built on Python, Tkinter entailing player movement, goal detection, score tracking, a timer, and a moving goalkeeper cursor. 
 
+# Project Date: Grade 9
+
 # Overview
 This project is a football mini-game developed using Python and Tkinter. The player controls a football using the keyboard and attempts to score goals while avoiding obstacles and managing time constraints.
 
